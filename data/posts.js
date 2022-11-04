@@ -17,9 +17,9 @@ export const posts = [
  {
     id: "/single-post-3.html",
     img: "https://i.ibb.co/smqVbxd/1.jpg",
-    title: "Bu yangi post 3",
+    title: "IT parkda yangilik",
     date: "Noyabr 3, 2022",
-    post: "Bu yangi 3 post edi, Bu yangi 3 post edi..., Bu yangi 2 post edi...,Bu yangi 2 post edi...,Bu yangi 2 post edi...,Bu yangi 2 post edi...kkkkkkkkkkkkkkkkkk"
+    post: "Навбаҳор тумани кичик мажлислар залида туман ҳокими Азамат Ўроқов қишлоқ хўжалиги соҳаси мутахасислари ва тадбиркор аёллар билан суҳбат олиб борди."
 },
 ];
 
