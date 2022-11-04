@@ -16,7 +16,7 @@ export const posts = [
 },
  {
     id: "/single-post-3.html",
-    img: "img/content/content.png",
+    img: "https://i.ibb.co/smqVbxd/1.jpg",
     title: "Bu yangi post 3",
     date: "Noyabr 3, 2022",
     post: "Bu yangi 3 post edi, Bu yangi 3 post edi..., Bu yangi 2 post edi...,Bu yangi 2 post edi...,Bu yangi 2 post edi...,Bu yangi 2 post edi...kkkkkkkkkkkkkkkkkk"
